@@ -3,10 +3,10 @@
 <!-- ═══════════════════════════════════════════════════ HEADER ══ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ahmed&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=6E40C9&strokeWidth=2&desc=⚡%20Software%20Engineer%20⚡&descSize=20&descAlignY=78&descAlign=50&descColor=a78bfa" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════ LOGO ════ -->
+<!-- ═══════════════════════════════════════════ PROFILE IMAGE ═══ -->
 <br/>
 
-<img src="./logo.png" width="120"/>
+<img src="https://github.com/ahmedz182.png" width="130" style="border-radius:50%; border: 3px solid #6E40C9;"/>
 
 <br/>
 
@@ -16,9 +16,7 @@
 <br/><br/>
 
 <!-- ══════════════════════════════════════════ TYPING ANIMATION ═ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Software+Engineer;⚡+Turning+Ideas+into+Products;🧠+System+Design+%7C+Clean+Architecture;🛠️+TypeScript+%7C+React+%7C+Node.js+%7C+Go;✨+Always+Learning%2C+Always+Shipping" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Turning+Ideas+into+Products+%E2%9A%A1;System+Design+%7C+Clean+Architecture+%F0%9F%A7%A0;TypeScript+%7C+React+%7C+Node.js+%7C+Go;Always+Learning%2C+Always+Shipping+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -90,8 +88,13 @@ const ahmed = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedz182&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6E40C9&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedz182&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedz182&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedz182&theme=tokyonight" height="180em"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedz182&theme=tokyonight&utcOffset=5" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedz182&theme=tokyonight" height="180em"/>
 
 <br/>
 
@@ -111,6 +114,34 @@ const ahmed = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+## 🏆 Skills & Expertise
+
+<div align="center">
+
+**Core Skills**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,go,react,nextjs,nodejs,tailwind&theme=dark&perline=8)](https://skillicons.dev)
+
+**Tools & Infrastructure**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,postgres,mongodb,redis,git,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
+
+**Currently Exploring**
+
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,graphql,rust,bun&theme=dark&perline=8)](https://skillicons.dev)
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=node.js&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-Intermediate-6E40C9?style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -125,6 +156,7 @@ const ahmed = {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedfayyaz.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedz182)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmedz182)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedz182@gmail.com)
@@ -138,6 +170,10 @@ const ahmed = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<img src="./logo.png" width="60"/>
+
+<br/>
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
