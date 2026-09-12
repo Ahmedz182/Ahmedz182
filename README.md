@@ -13,6 +13,8 @@
 <!-- Glowing name badge -->
 <img src="https://img.shields.io/badge/-%40ahmedz182-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 &nbsp;
+<img src="https://img.shields.io/badge/💻%20Full--Stack%20Developer-0d1117?style=for-the-badge&labelColor=0d1117&color=6E40C9"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍%20Pakistan-0d1117?style=for-the-badge&labelColor=0d1117&color=302b63"/>
@@ -20,7 +22,7 @@
 <br/><br/>
 
 <!-- ══════════════════════════════════════════ TYPING ANIMATION ═ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Building+%40+Learn+Hub+Studio+%E2%9A%A1;React+%7C+Next.js+%7C+TypeScript+%7C+Firebase;Shipping+Real+Products%2C+Not+Just+Demos+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Solo+Developer+%7C+Building+Independently+%E2%9A%A1;React+%7C+Next.js+%7C+TypeScript+%7C+Firebase;Shipping+Real+Products%2C+Not+Just+Demos+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -43,10 +45,10 @@
 ```typescript
 const ahmed = {
   name:       "Muhammad Ahmed Fayyaz",
-  role:       "Full-Stack Web Developer",
-  company:    "Learn Hub Studio",
+  role:       "Full-Stack Developer",
+  workStyle:  "Solo / Independent — no company, just me 🧑‍💻",
   based_in:   "Pakistan 🇵🇰",
-  focus:      ["Web & Mobile Products", "Firebase-backed Apps", "Dev Tooling"],
+  stack:      { frontend: ["React", "Next.js", "Flutter"], backend: ["Node.js", "Firebase", "PostgreSQL"] },
   languages:  ["TypeScript", "JavaScript", "Python", "Java"],
   currently:  "Building precommit-sentinel & pdf-gen-js 🔧",
   askMeAbout: ["React", "Next.js", "Firebase", "Flutter"],
