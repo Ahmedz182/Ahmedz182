@@ -48,7 +48,7 @@ const ahmed = {
   based_in:   "Pakistan 🇵🇰",
   focus:      ["Web & Mobile Products", "Firebase-backed Apps", "Dev Tooling"],
   languages:  ["TypeScript", "JavaScript", "Python", "Java"],
-  currently:  "Building precommit-sentinel & universal-pdf-gen 🔧",
+  currently:  "Building precommit-sentinel & pdf-gen-js 🔧",
   askMeAbout: ["React", "Next.js", "Firebase", "Flutter"],
 };
 ```
@@ -97,8 +97,25 @@ const ahmed = {
 | [**OLX-Clone**](https://github.com/ahmedz182/OLX-Clone) | Next.js · Firebase Auth | Marketplace app replicating OLX's listing, browsing & auth flows |
 | [**React-Store-with-firebase**](https://github.com/ahmedz182/React-Store-with-firebase) | React · Firebase | E-commerce storefront with a Firebase-backed catalog |
 | [**precommit-sentinel**](https://github.com/ahmedz182/precommit-sentinel) | JavaScript | Git pre-commit safety tooling |
-| [**universal-pdf-gen**](https://github.com/ahmedz182/universal-pdf-gen) | Python | Lightweight PDF generation utility |
+| [**pdf-gen-js**](https://github.com/ahmedz182/universal-pdf-gen) | TypeScript | JS/TS PDF generation with templates |
 | [**Portfolio**](https://github.com/ahmedz182/Portfolio) | React | Personal developer portfolio site |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📦 npm Packages
+
+<div align="center">
+
+<!--START_SECTION:npm-packages-->
+
+| Package | Version | Description |
+|---|---|---|
+| [**pdf-gen-js**](https://www.npmjs.com/package/pdf-gen-js) | `v1.1.0` | JavaScript/TypeScript PDF generation with templates |
+| [**precommit-sentinel**](https://www.npmjs.com/package/precommit-sentinel) | `v1.0.0` | Zero-dependency pre-commit scanner: catches vulnerabilities and secrets, and reports code quality, modularity, and scalability of your project. |
+
+<!--END_SECTION:npm-packages-->
 
 </div>
 
