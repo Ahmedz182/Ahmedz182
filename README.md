@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════ HEADER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ahmed%20Fayyaz&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=6E40C9&strokeWidth=2&desc=⚡%20Full-Stack%20Web%20%26%20Mobile%20Developer%20⚡&descSize=18&descAlignY=78&descAlign=50&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ahmed%20Fayyaz&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=6E40C9&strokeWidth=2&desc=⚡%20Full-Stack%20Software%20Engineer%20⚡&descSize=20&descAlignY=78&descAlign=50&descColor=a78bfa" width="100%"/>
 
 <!-- ═══════════════════════════════════════════ PROFILE IMAGE ═══ -->
 <br/>
@@ -13,9 +13,9 @@
 <!-- Glowing name badge -->
 <img src="https://img.shields.io/badge/-%40ahmedz182-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💻%20Full--Stack%20Developer-0d1117?style=for-the-badge&labelColor=0d1117&color=6E40C9"/>
+<img src="https://img.shields.io/badge/💻%20Full--Stack%20Software%20Engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=6E40C9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📱%20Mobile%20App%20Developer-0d1117?style=for-the-badge&labelColor=0d1117&color=302b63"/>
+<img src="https://img.shields.io/badge/📱%20Mobile%20App%20Engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=302b63"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white"/>
 &nbsp;
@@ -24,7 +24,7 @@
 <br/><br/>
 
 <!-- ══════════════════════════════════════════ TYPING ANIMATION ═ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer+%F0%9F%9A%80;Solo+Developer+%7C+Building+Independently+%E2%9A%A1;React+%7C+Next.js+%7C+TypeScript+%7C+Firebase;Flutter+%7C+React+Native+%7C+Android+%F0%9F%93%B1;Shipping+Real+Products%2C+Not+Just+Demos+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Solo+Engineer+%7C+Building+Independently+%E2%9A%A1;React+%7C+Next.js+%7C+TypeScript+%7C+Firebase;Flutter+%7C+React+Native+%7C+Android+%F0%9F%93%B1;Shipping+Real+Products%2C+Not+Just+Demos+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -47,7 +47,7 @@
 ```typescript
 const ahmed = {
   name:       "Muhammad Ahmed Fayyaz",
-  role:       "Full-Stack Developer",
+  role:       "Full-Stack Software Engineer",
   workStyle:  "Solo / Independent — no company, just me 🧑‍💻",
   based_in:   "Pakistan 🇵🇰",
   stack: {
