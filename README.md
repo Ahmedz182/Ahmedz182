@@ -101,19 +101,39 @@ const ahmed = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🚀 Featured Projects
+## 🧩 Problems I've Solved
 
 <div align="center">
 
-| Project | Stack | Description |
+**Web Apps & Platforms**
+
+| Problem | What I Built | Repo |
 |---|---|---|
-| [**OLX-Clone**](https://github.com/ahmedz182/OLX-Clone) | Next.js · Firebase Auth | Marketplace app replicating OLX's listing, browsing & auth flows |
-| [**React-Store-with-firebase**](https://github.com/ahmedz182/React-Store-with-firebase) | React · Firebase | E-commerce storefront with a Firebase-backed catalog |
-| [**precommit-sentinel**](https://github.com/ahmedz182/precommit-sentinel) | JavaScript | Git pre-commit safety tooling |
-| [**pdf-gen-js**](https://github.com/ahmedz182/universal-pdf-gen) | TypeScript | JS/TS PDF generation with templates |
-| [**Portfolio**](https://github.com/ahmedz182/Portfolio) | React | Personal developer portfolio site |
-| **Ebook_Islamic_Flutter_app** *(private)* | Flutter | Islamic e-book reader app with in-app purchases, for Android |
-| **All-English-Mobile-App** *(private)* | React Native | Cross-platform mobile app built with React Native |
+| Wanted hands-on practice replicating a real, high-traffic marketplace flow | **OLX-Clone** — Next.js marketplace app with Firebase Auth for listing, browsing & connecting buyers/sellers | [public](https://github.com/ahmedz182/OLX-Clone) |
+| Needed a storefront live fast without standing up a custom backend | **React-Store-with-firebase** — e-commerce storefront using Firebase for auth & the product catalog | [public](https://github.com/ahmedz182/React-Store-with-firebase) |
+| Tracking shared expenses and settling group bills is messy with spreadsheets | **Hisaab (Spend Smart, Settle Easy)** — app for tracking shared spending and settling balances | private |
+| Good resumes get filtered out by ATS software before a human sees them | **ATS-Friendly-Resume-Maker** — builds resumes formatted to pass ATS screening | private |
+| Needed a decoupled foundation for building & orchestrating AI agents | **Agentic Platform** — separate frontend (TypeScript) and backend (Python) for an AI agent platform | private |
+| Manually tracking Amazon product data doesn't scale | **amazon-scraper** — automated scraper for pulling Amazon product data | private |
+| Needed a translation tool without the overhead of a full admin dashboard | **SeTranslator** — translation app, plus a lighter client (`-app-without-admin-panel`) for use without the admin panel | private |
+| People wanted a simple way to track nutrition and build healthier habits | **Calivio** — calorie-tracking and nutrition-insights platform with AI-assisted guidance | private |
+| A media production business needed a site plus a way to manage their own content | **pictureperfectproductions** — Next.js site with portfolio, booking info & a secured content dashboard | private |
+| An institute needed a simple, fast landing page | **hannan-insitute-landing** — static landing page | private |
+| Needed a personal site to showcase work without a hosting bill | **Portfolio** — React portfolio site deployed via GitHub Pages | [public](https://github.com/ahmedz182/Portfolio) |
+
+**Mobile Apps**
+
+| Problem | What I Built | Repo |
+|---|---|---|
+| Wanted to distribute Islamic e-books on Android with built-in monetization | **Ebook_Islamic_Flutter_app** — Flutter app with in-app purchases for Android | private |
+| Needed one codebase to ship an English-learning app on iOS and Android | **All-English-Mobile-App** — built with React Native for a shared cross-platform codebase | private |
+
+**Dev Tooling (published on npm)**
+
+| Problem | What I Built | Repo |
+|---|---|---|
+| Secrets & vulnerabilities kept slipping into commits, and most scanners drag in a heavy dependency tree | **precommit-sentinel** — zero-dependency git pre-commit scanner for secrets, vulnerabilities & code quality | [npm](https://www.npmjs.com/package/precommit-sentinel) · [repo](https://github.com/ahmedz182/precommit-sentinel) |
+| Generating PDFs from JS/TS projects usually means fighting a bulky, over-engineered library | **pdf-gen-js** — lightweight, template-based PDF generation for JS/TS | [npm](https://www.npmjs.com/package/pdf-gen-js) · [repo](https://github.com/ahmedz182/universal-pdf-gen) |
 
 </div>
 
