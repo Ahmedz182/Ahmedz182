@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════ HEADER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ahmed%20Fayyaz&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=6E40C9&strokeWidth=2&desc=⚡%20Full-Stack%20Web%20Developer%20⚡&descSize=20&descAlignY=78&descAlign=50&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ahmed%20Fayyaz&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=6E40C9&strokeWidth=2&desc=⚡%20Full-Stack%20Web%20%26%20Mobile%20Developer%20⚡&descSize=18&descAlignY=78&descAlign=50&descColor=a78bfa" width="100%"/>
 
 <!-- ═══════════════════════════════════════════ PROFILE IMAGE ═══ -->
 <br/>
@@ -15,6 +15,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/💻%20Full--Stack%20Developer-0d1117?style=for-the-badge&labelColor=0d1117&color=6E40C9"/>
 &nbsp;
+<img src="https://img.shields.io/badge/📱%20Mobile%20App%20Developer-0d1117?style=for-the-badge&labelColor=0d1117&color=302b63"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍%20Pakistan-0d1117?style=for-the-badge&labelColor=0d1117&color=302b63"/>
@@ -22,7 +24,7 @@
 <br/><br/>
 
 <!-- ══════════════════════════════════════════ TYPING ANIMATION ═ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Solo+Developer+%7C+Building+Independently+%E2%9A%A1;React+%7C+Next.js+%7C+TypeScript+%7C+Firebase;Shipping+Real+Products%2C+Not+Just+Demos+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer+%F0%9F%9A%80;Solo+Developer+%7C+Building+Independently+%E2%9A%A1;React+%7C+Next.js+%7C+TypeScript+%7C+Firebase;Flutter+%7C+React+Native+%7C+Android+%F0%9F%93%B1;Shipping+Real+Products%2C+Not+Just+Demos+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -48,7 +50,11 @@ const ahmed = {
   role:       "Full-Stack Developer",
   workStyle:  "Solo / Independent — no company, just me 🧑‍💻",
   based_in:   "Pakistan 🇵🇰",
-  stack:      { frontend: ["React", "Next.js", "Flutter"], backend: ["Node.js", "Firebase", "PostgreSQL"] },
+  stack: {
+    frontend: ["React", "Next.js"],
+    backend:  ["Node.js", "Firebase", "PostgreSQL"],
+    mobile:   ["Flutter", "React Native", "Android (Java)"],
+  },
   languages:  ["TypeScript", "JavaScript", "Python", "Java"],
   currently:  "Building precommit-sentinel & pdf-gen-js 🔧",
   askMeAbout: ["React", "Next.js", "Firebase", "Flutter"],
@@ -73,7 +79,12 @@ const ahmed = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Mobile**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Backend & Data**
 
@@ -101,6 +112,8 @@ const ahmed = {
 | [**precommit-sentinel**](https://github.com/ahmedz182/precommit-sentinel) | JavaScript | Git pre-commit safety tooling |
 | [**pdf-gen-js**](https://github.com/ahmedz182/universal-pdf-gen) | TypeScript | JS/TS PDF generation with templates |
 | [**Portfolio**](https://github.com/ahmedz182/Portfolio) | React | Personal developer portfolio site |
+| **Ebook_Islamic_Flutter_app** *(private)* | Flutter | Islamic e-book reader app with in-app purchases, for Android |
+| **All-English-Mobile-App** *(private)* | React Native | Cross-platform mobile app built with React Native |
 
 </div>
 
@@ -184,7 +197,6 @@ const ahmed = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedfayyaz.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedz182)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/learnhubstudio)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedz182@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedz182)
 
