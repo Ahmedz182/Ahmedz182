@@ -130,7 +130,22 @@ const ahmed = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedz182&bg_color=0d1117&color=a78bfa&line=6E40C9&point=ffffff&area=true&area_color=6E40C9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedz182/ahmedz182/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedz182/ahmedz182/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ahmedz182/ahmedz182/output/github-snake.svg" width="100%"/>
+</picture>
+
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
