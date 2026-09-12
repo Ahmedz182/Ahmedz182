@@ -109,8 +109,6 @@ const ahmed = {
 
 | Problem | What I Built | Repo |
 |---|---|---|
-| Wanted hands-on practice replicating a real, high-traffic marketplace flow | **OLX-Clone** — Next.js marketplace app with Firebase Auth for listing, browsing & connecting buyers/sellers | [public](https://github.com/ahmedz182/OLX-Clone) |
-| Needed a storefront live fast without standing up a custom backend | **React-Store-with-firebase** — e-commerce storefront using Firebase for auth & the product catalog | [public](https://github.com/ahmedz182/React-Store-with-firebase) |
 | Tracking shared expenses and settling group bills is messy with spreadsheets | **Hisaab (Spend Smart, Settle Easy)** — app for tracking shared spending and settling balances | private |
 | Good resumes get filtered out by ATS software before a human sees them | **ATS-Friendly-Resume-Maker** — builds resumes formatted to pass ATS screening | private |
 | Needed a decoupled foundation for building & orchestrating AI agents | **Agentic Platform** — separate frontend (TypeScript) and backend (Python) for an AI agent platform | private |
@@ -119,7 +117,6 @@ const ahmed = {
 | People wanted a simple way to track nutrition and build healthier habits | **Calivio** — calorie-tracking and nutrition-insights platform with AI-assisted guidance | private |
 | A media production business needed a site plus a way to manage their own content | **pictureperfectproductions** — Next.js site with portfolio, booking info & a secured content dashboard | private |
 | An institute needed a simple, fast landing page | **hannan-insitute-landing** — static landing page | private |
-| Needed a personal site to showcase work without a hosting bill | **Portfolio** — React portfolio site deployed via GitHub Pages | [public](https://github.com/ahmedz182/Portfolio) |
 
 **Mobile Apps**
 
