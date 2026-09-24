@@ -144,6 +144,7 @@ const ahmed = {
 
 | Package | Version | Description |
 |---|---|---|
+| [**developer-footprint**](https://www.npmjs.com/package/developer-footprint) | `v0.1.0` | Verifiable software authorship and provenance: create an identity, sign a project footprint, verify it offline. CLI, SDK and a drop-in badge for any website. |
 | [**pdf-gen-js**](https://www.npmjs.com/package/pdf-gen-js) | `v1.1.0` | JavaScript/TypeScript PDF generation with templates |
 | [**precommit-sentinel**](https://www.npmjs.com/package/precommit-sentinel) | `v1.0.0` | Zero-dependency pre-commit scanner: catches vulnerabilities and secrets, and reports code quality, modularity, and scalability of your project. |
 
