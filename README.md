@@ -194,6 +194,8 @@ const ahmed = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Ahmedz182/developer-footprint/pull/1) in [Ahmedz182/developer-footprint](https://github.com/Ahmedz182/developer-footprint)
+2. 💪 Opened PR [#1](https://github.com/Ahmedz182/developer-footprint/pull/1) in [Ahmedz182/developer-footprint](https://github.com/Ahmedz182/developer-footprint)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
